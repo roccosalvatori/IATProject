@@ -1,5 +1,4 @@
 # IAT-projet
-Welcome in the github designed for the IAT-project 2022.
 
 ## Setup
 
